@@ -1,0 +1,28 @@
+name: Floor van de Velde
+favicon: null
+layout_spectrum: 0.05897885840386152
+typography_spectrum: 0.4659263496287167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4071644695941359
+  lightness: 0.04752837051637471
+  saturation: 0.8231485437136143
+  rhythmicContrast: 0.1438943564426154
+purpose: []
